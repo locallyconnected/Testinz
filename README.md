@@ -1,4 +1,6 @@
-${\color{blue}Blue}$
+
+
+${\color{blue}hesamotherfuckingmonster}$
 <p align="center">
 <img src="https://github.com/locallyconnected/Testinz/blob/8333164bdcee9a8aa5b3b5ec056fe4af60aec83d/Untitled497_20261031141502.png" width="600"> 
 </p>
